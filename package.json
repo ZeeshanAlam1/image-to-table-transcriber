@@ -3,14 +3,7 @@
   "version": "1.0.0",
   "description": "AI-powered image to table transcription using Claude API",
   "type": "module",
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
-  },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.20.0"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
